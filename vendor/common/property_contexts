@@ -246,3 +246,6 @@ persist.vendor.tb                u:object_r:hvdcp_opti_prop:s0
 persist.vendor.vin               u:object_r:hvdcp_opti_prop:s0
 persist.vendor.qg                u:object_r:hvdcp_opti_prop:s0
 persist.vendor.soh               u:object_r:hvdcp_opti_prop:s0
+
+wlan.driver.ath            u:object_r:wcnss_prop:s0
+wlan.driver.config         u:object_r:wcnss_prop:s0
